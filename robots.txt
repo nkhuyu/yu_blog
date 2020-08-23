@@ -1,1 +1,1 @@
-Sitemap: https://nkhuyu.github.io/test_fastpages/sitemap.xml
+Sitemap: https://nkhuyu.github.io/yu_blog/sitemap.xml
